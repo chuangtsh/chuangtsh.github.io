@@ -16,14 +16,14 @@ timezone: Asia/Taipei
 
 title: Kesler's Site # the main title
 
-tagline: a blog site # it will display as the sub-title
+tagline: a blog site of a Taiwanese CS undergraduate student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A simple blog site.
+  A simple blog site. 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://chuangtsh.github.io/"
+url: "https://chuangtsh.github.io"
 
 github:
   username: chuangtsh # change to your github username
